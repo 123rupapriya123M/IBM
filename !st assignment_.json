@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    },
+    "language_info": {
+      "name": ""
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "# Title",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## This is an introductory sentence\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "Hi, My name is Rupa.\nThis is my first assignment!",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "### List of data science languages\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "This is an introductory sentence followed by an ordered list of data science languages:\n\n1. Python\n2. R\n3. SQL\n4. Java\n5. JavaScript\n6. C++\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "\n### List of data science libraries:\n   - NumPy\n   - pandas\n   - matplotlib\n   - seaborn\n   - TensorFlow\n\n   ",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "### Table of Data Science tools:\n\n| Tool        | Description                   |\n|-------------|-------------------------------|\n| Python      | Programming language          |\n| R           | Statistical computing         |\n| Jupyter     | Interactive notebooks         |\n| TensorFlow  | Machine learning framework    |\n| PyTorch     | Deep learning library         |\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "### Here are some examples of arithmetic expressions:\n\n- Addition: ( 2 + 3 = 5 )\n- Subtraction: ( 8 - 4 = 4 )\n- Multiplication: ( 5*4 = 20 )\n- Division: ( 10/2 = 5 )",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "# Multiply two numbers\nnum1 = 5\nnum2 = 3\nresult_multiply = num1 * num2\nprint(f\"Multiplication result: {result_multiply}\")\n\n# Add two numbers\nnum3 = 10\nnum4 = 7\nresult_add = num3 + num4\nprint(result_add)\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "# Convert minutes to hours\nminutes = 150\nhours = minutes / 60\nprint(hours)\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "markdown",
+      "source": "### Here are the objectives for this exercise:\n\n- Learn how to create markdown cells in Jupyter Notebook.\n- Practice formatting text using markdown syntax.\n- Understand how to use markdown for documentation.\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "**Author's Name:** Rupa Priya Maddherla\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    }
+  ]
+}
